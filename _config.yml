@@ -4,35 +4,31 @@ baseurl: ""
 # Site settings
 title: giaiphapso
 email: tranquangthanhcong@gmail.com
-description: "Chúng tôi cung cấp giải pháp quản lý doanh nghiệp nhỏ bằng công nghệ, giúp doanh nghiệp hoạt động hiệu quả hơn đồng thời tiết kiệm thời gian, công sức và chi phí."
+description: "Chúng tôi cung cấp giải pháp quản lý doanh nghiệp nhỏ bằng công nghệ, giúp doanh nghiệp hoạt động hiệu quả hơn đồng thời tiết kiệm thời gian, công sức và chi phí. Sử dụng bộ công cụ của Google: Sheet, Appsheet, Appscript; bộ công cụ Microsoft; hoặc code riêng cho từng dự án"
 
 
 # Team names, titles and social links
 people:
 - name: Công Trần
   pic: congtran
-  position: Founder
+  position: tranquangthanhcong@gmail.com
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: envelope
+      url: mailto:tranquangthanhcong@gmail.com
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
